@@ -1,0 +1,19 @@
+body{
+    background-color: paleturquoise;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    height: 700px;
+    align-items: center;
+}
+
+
+.Login-Form{
+    background-color: whitesmoke;
+    padding: 10px;
+    width: 400px;
+}
+
+
